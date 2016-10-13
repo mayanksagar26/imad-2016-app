@@ -16,4 +16,5 @@ function moveRight () {
 }
 img.onclick = function () {
    var interval = setInterval(moveRight, 50);
+   alert("Bye Bye see u again when u will reload this page");
 };
