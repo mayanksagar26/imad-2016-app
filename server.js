@@ -20,7 +20,7 @@ var articles = {
                         </p>
                          <p>
                             This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>`
+                        </p>`,
     },
     'article-two': {title: 'Article two|Mayank Sagar',
         heading: 'Article two',
@@ -28,7 +28,9 @@ var articles = {
         content:`
                       <p>
                             This is the content of my second article. 
-                        </p>`},
+                        </p>`,
+        
+    },
     'article-three': {title: 'Article three|Mayank Sagar',
         heading: 'Article three',
         date: 'oct 13, 2016',
