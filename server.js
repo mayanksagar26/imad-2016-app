@@ -27,27 +27,17 @@ var articles = {
         date: 'oct 13, 2016',
         content:`
                       <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
+                            This is the content of my second article. 
                         </p>`},
     'article-three': {title: 'Article three|Mayank Sagar',
         heading: 'Article three',
         date: 'oct 13, 2016',
         content:`
                       <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>`},
+                            This is the content of my third article. 
+                        </p>`
+        
+    }
 };
 function createTemplate (data){
     var title = data.title;
