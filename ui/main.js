@@ -4,7 +4,7 @@ console.log('Loaded!');
 var element = document.getElementById('main-text');
 
 //Calling the inner HTML of the html file and changing rhe content
-element.innerHTML = 'Click on the DINASAUR to see it moving';
+element.innerHTML = 'Click on the DINOSAUR to see it moving';
 
 //Move the Image of the Dinasour
  
@@ -16,5 +16,5 @@ function moveRight () {
 }
 img.onclick = function () {
    var interval = setInterval(moveRight, 40);
-   alert("DINASAUR: Bye Bye see u again when u will reload this page");
+   alert("DINOSAUR: Bye Bye see u again when u will reload this page");
 };
