@@ -16,5 +16,5 @@ function moveRight () {
 }
 img.onclick = function () {
    var interval = setInterval(moveRight, 40);
-   alert("Bye Bye see u again when u will reload this page");
+   alert("DINASAUR: Bye Bye see u again when u will reload this page");
 };
