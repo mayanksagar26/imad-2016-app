@@ -35,7 +35,7 @@ var articles = {
                          <p>
                             This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
                         </p>`},
-    'artile-three': {title: 'Article three|Mayank Sagar',
+    'article-three': {title: 'Article three|Mayank Sagar',
         heading: 'Article three',
         date: 'oct 13, 2016',
         content:`
