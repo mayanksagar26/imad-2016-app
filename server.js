@@ -267,12 +267,13 @@ var mygallery=new fadeSlideShow({
  wrapperid: "imageslideshow2", //ID of blank DIV on page to house Slideshow   
  dimensions: [750, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image (www.2createawebsites.com)
    imagearray:  [     
-   ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],    
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13245417_1007216896035734_7631574402319053336_n.jpg?oh=5af205264f300f2f4476a16f3153bae4&oe=58D3515D"],    
    
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/s526x395/12832322_956611271096297_6221605990865042378_n.jpg?oh=b8473de66d5ca6a0ff3daac0f3025d26&oe=58B26E96"],
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13237784_1003424846414939_4816777132527706957_n.jpg?oh=59ca5fa853c1897ce35049119930547b&oe=58C4C16F"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/11900066_863080500449375_6156732306193503755_n.jpg?oh=ba30a0b75bc75b54804f3a76330e9514&oe=58BE96B0"],
    
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/14716058_10154657944351465_3923124691863438921_n.jpg?oh=c0aac09ed83fbc16c71e48c60dc8e350&oe=58D52702"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/12247117_893448574079234_7784851940404832298_n.jpg?oh=98234aeaabb567f6693e684a2b1a866c&oe=58CE1E34"],
+    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13237784_1003424846414939_4816777132527706957_n.jpg?oh=59ca5fa853c1897ce35049119930547b&oe=58C4C16F"],
    ],
   displaymode: {type:'auto', pause:1000, cycles:0, wraparound:false},   
   persist: false, //remember last viewed slide and recall within same session?   
