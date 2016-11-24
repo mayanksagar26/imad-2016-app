@@ -113,6 +113,7 @@ body{
 
         background: url(http://cdn.wallpapersafari.com/34/93/bpQCDl.jpg);
          color: white;
+         text-align: center;
         font-family: Helvetica;
         padding-top: 20px;
         background-size: cover;
@@ -188,6 +189,7 @@ body{
 
         background: url(http://cdn.wallpapersafari.com/10/32/vHkSId.jpg);
         color: white;
+        text-align: centre;
         font-family: Helvetica;
         padding-top: 20px;
         background-size: cover;
