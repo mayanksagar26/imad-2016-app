@@ -156,8 +156,15 @@ body{
 
                 <body>
                       <p>
-                            This is the content of my second article.
+                            Some of my other Videos are : 
+                            
                         </p>
+                        <h2>Zandu Balm Mad Ads</h2>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/tLTZJyAn_Ug" frameborder="0" allowfullscreen></iframe>
+                        <h2>Startup Interview</h2>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/1fX6Bn5UIeE" frameborder="0" allowfullscreen></iframe>
+                        <h2>Market Research</h2>
+                        <iframe width="560" height="315" src="https://www.youtube.com/embed/JopdsBrYK4M" frameborder="0" allowfullscreen></iframe>
                         <hr/>
       <div>
     <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836da32e2a1d(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836da32e2a1d"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836da32e2a1d=document.createElement('script');fcs_5836da32e2a1d.type="text/javascript";fcs_5836da32e2a1d.src=ajaxpath_5836da32e2a1d((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836da32e2a1d&s=#!5836da32e2a1d");setTimeout("document.getElementById('fcs_div_5836da32e2a1d').appendChild(fcs_5836da32e2a1d)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
@@ -227,8 +234,53 @@ body{
 </div>
                 <body>
                       <p>
-                            This is the content of my third article.
+                            Slideshow of Pictures.
                         </p>
+                        <h2>My small tribute to R.K Laxman sir by my cartoons</h2> 
+                        <script type="text/javascript" src="http://www.linkbuildingservices4sites.com/resources/slide-show.js"></script>   
+
+<div id="imageslideshow1"></div> 
+<script type="text/javascript">  
+var mygallery=new fadeSlideShow({   
+ wrapperid: "imageslideshow1", //ID of blank DIV on page to house Slideshow   
+ dimensions: [750, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image (www.2createawebsites.com)
+   imagearray:  [     
+   ["https://pbs.twimg.com/media/B8SKtKvCEAEZZOq.jpg"],    
+   ["https://pbs.twimg.com/media/B8SJOa7CUAEuP9P.jpg"], 
+   ["https://pbs.twimg.com/media/B8MNOMvCMAAVaze.jpg"],
+   ],
+  displaymode: {type:'auto', pause:1000, cycles:0, wraparound:false},   
+  persist: false, //remember last viewed slide and recall within same session?   
+  fadeduration: 2000, //transition duration (milliseconds)  
+  descreveal: "ondemand",
+  togglerid: ""
+  })
+ </script>  
+
+                        <hr/>
+                        <h2>Some other pics of mine</h2>
+                        <script type="text/javascript" src="http://www.linkbuildingservices4sites.com/resources/slide-show.js"></script>   
+
+<div id="imageslideshow1"></div> 
+<script type="text/javascript">  
+var mygallery=new fadeSlideShow({   
+ wrapperid: "imageslideshow1", //ID of blank DIV on page to house Slideshow   
+ dimensions: [750, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image (www.2createawebsites.com)
+   imagearray:  [     
+   ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],    
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13238993_1003432446414179_5053767368767852575_n.jpg?oh=1e04e60c56b29e955f4f9bd5d51a303d&oe=58BA487B"], 
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/s526x395/12832322_956611271096297_6221605990865042378_n.jpg?oh=b8473de66d5ca6a0ff3daac0f3025d26&oe=58B26E96"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13237784_1003424846414939_4816777132527706957_n.jpg?oh=59ca5fa853c1897ce35049119930547b&oe=58C4C16F"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/14716058_10154657944351465_3923124691863438921_n.jpg?oh=c0aac09ed83fbc16c71e48c60dc8e350&oe=58D52702"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/14716058_10154657944351465_3923124691863438921_n.jpg?oh=c0aac09ed83fbc16c71e48c60dc8e350&oe=58D52702"],
+   ],
+  displaymode: {type:'auto', pause:1000, cycles:0, wraparound:false},   
+  persist: false, //remember last viewed slide and recall within same session?   
+  fadeduration: 2000, //transition duration (milliseconds)  
+  descreveal: "ondemand",
+  togglerid: ""
+  })
+ </script>  
                         <hr/>
       <div>
       <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836d33b19a72(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836d33b19a72"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836d33b19a72=document.createElement('script');fcs_5836d33b19a72.type="text/javascript";fcs_5836d33b19a72.src=ajaxpath_5836d33b19a72((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836d33b19a72&s=#!5836d33b19a72");setTimeout("document.getElementById('fcs_div_5836d33b19a72').appendChild(fcs_5836d33b19a72)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
