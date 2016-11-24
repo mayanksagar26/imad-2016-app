@@ -51,7 +51,7 @@ body{
 </div>
 
                     <body>
-                    <p>My name is Mayank Sagar. I am a second year student of Industrial Engineering and Management branch of R.V.College Of Engineering, Bangalore.My home town is Patna. Me and My family have been living there since my birth.</p>
+                    <p>My name is Mayank Sagar. I am a second year student of Industrial Engineering and Management branch of R.V.College Of Engineering, Bangalore.My home town is Patna. </p>
                     <hr/>
                     <h3>THE BEGINNING</h3>
                     This part of my life is called the beginning. In those days we used to live in Hanuman Nagar , Patna. And I got admission in a small decent school named "New Era High School". I studied there till UKG(Upper Kinder garten).
