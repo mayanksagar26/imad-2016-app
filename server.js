@@ -268,10 +268,10 @@ var mygallery=new fadeSlideShow({
  dimensions: [750, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image (www.2createawebsites.com)
    imagearray:  [     
    ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],    
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13238993_1003432446414179_5053767368767852575_n.jpg?oh=1e04e60c56b29e955f4f9bd5d51a303d&oe=58BA487B"], 
+   
    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-0/s526x395/12832322_956611271096297_6221605990865042378_n.jpg?oh=b8473de66d5ca6a0ff3daac0f3025d26&oe=58B26E96"],
    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13237784_1003424846414939_4816777132527706957_n.jpg?oh=59ca5fa853c1897ce35049119930547b&oe=58C4C16F"],
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/14716058_10154657944351465_3923124691863438921_n.jpg?oh=c0aac09ed83fbc16c71e48c60dc8e350&oe=58D52702"],
+   
    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/14716058_10154657944351465_3923124691863438921_n.jpg?oh=c0aac09ed83fbc16c71e48c60dc8e350&oe=58D52702"],
    ],
   displaymode: {type:'auto', pause:1000, cycles:0, wraparound:false},   
