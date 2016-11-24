@@ -51,37 +51,22 @@ body{
                     <p>My name is Mayank Sagar. I am a second year student of Industrial Engineering and Management branch of R.V.College Of Engineering, Bangalore.My home town is Patna. </p>
                     <hr/>
                     <h3>THE BEGINNING</h3>
-                    This part of my life is called the beginning. In those days we used to live in Hanuman Nagar , Patna. And I got admission in a small decent school named "New Era High School". I studied there till UKG(Upper Kinder garten).
-                    After this I joined Kendriya Vidyalaya, Kankarbagh, Patna in which I remained till 12th grade.
+                    This part of my life is called the beginning. In those days we used to live in Hanuman Nagar, Patna. And I got admission in a school named "New Era High School". I studied there till UKG(Upper Kinder garten). After this I joined Kendriya Vidyalaya, Kankarbagh, Patna in which I remained till 12th grade.
                     <hr/>
                          <h3>THE JOURNEY BEGINS</h3>
-                         My schooling really began when I came to KV. And from the beginning I knew that , I am going to stay here for the next 12 years
-                         So whether I like it or not that is going to be my school forever. That,s why my real journey as Mayank Sagar began at Kendriya
-                         Vidyalaya, Kankarbagh. This part of my life is called the journey begins.
+                         My schooling really began when I came to KV. From the beginning I knew that I am going to stay here for the next 12 years So whether I like it or not that is going to be my school forever. That's why my real journey as Mayank Sagar began at Kendriya Vidyalaya, Kankarbagh. This part of my life is called the journey begins.
                          <hr/>
                          <h3>THE RACE</h3>
-                         After joining KV , my parents had expectations as any other parent that i have to perform as good as my elder sis who was not in my school but still
-                         avery good student. To just fulfill my parents desire to do well in studies I was performing good in class but was not bothered about the
-                         top position. I was keeping my position in class near 3rd and 4th.Like this race of class position was not enough for a student like me, one more race
-                          for IIT was there.So what was better than to run for hundreds of coaching and taking admission in few of them and be grilled for hours after class
-                          10th every day after school hours.So finally one more Race was ther for me. This part of life is called racing .
+                         After joining KV, my parents had high expectations from me just like any other parent. I had to perform as good as my elder sister who was not in my school but still a very good student. To fulfill my parents desire to do well in studies I was performing good in class but was not bothered about the top position. I was keeping my position in class near 3rd and 4th.Like this race of class position was not enough for a student like me, one more race for admissions into IIT was there. So what was better than to run for hundreds of coaching and taking admission in few of them and be grilled for hours after class 10th every day after school hours. So finally one more Race was there for me. This part of life is called racing .
                           <hr/>
                           <h3>REJECTION</h3>
-                          Finally the time of results came. Somehow I managed decent marks in 12th board but no one was ther to save me in JEE. So I got rejected
-                          This rejection was lind of first for me because before there was nothing as big as getting into an IIT was ther in my life.
-                          So I decided to drop a year and prepare for my second chance. Intially everything was perfectly fine, I was scoring good marks in 
-                          coaching tests . But as the saying is there that no good thing last ling if u have not sufficient efforts for it. Yeah so again I got rejected
-                          This phase of my life was rejection. But something else was waiting for me.
+                          Finally the results arrived. Somehow I managed to score decent marks in 12th boards but no one was there to save me in JEE. I got rejected and that was the first rejection of my life. I decided to drop a year and prepare for my second chance. Initially everything was perfectly fine, I was scoring good marks in mock tests. But I guess my efforts weren't enough and I got rejected in JEE again. This phase of my life was rejection. But something else was waiting for me.
                           <hr/>
                           <h4>Bengaluru</h4>
-                          After the rejection , for me there were just few options left. Either West Bengal or One of them was Bangalore. I never wanted to come so far to study
-                          but something else was written. Somehow my parents got convinced by many that Bangalore is the best place for any engineer I India.
-                          So here I was getting a seat in the top college of Bangalore that is what I was told "R.V.College Of Engineering".
+                          After the rejections, there were just few options left for me. I never wanted to go too far from my family to study but destiny had some other plans for me. I had secured good marks in the COMED-K examination which made me eligible for getting a seat in one of the top colleges of Karnataka that "R.V.College Of Engineering".
                           <hr/>
                           <h5>THE PRESENT</h5>
-                          So finally whever I am now , I am enjoying being here. Little bit of coding ,studying, and writing these kind of articles. But the most
-                          important thing among all is to live in present. Live in what u got and make the best out of u and every opportunity u get. There is a good
-                          saying "Yesterday is history , tommorow is a mystery but today is a gift that is why it is called PRESENT". So , may the force be with U.
+                         There is a famous saying "Yesterday is history, tomorrow is a mystery but today is a gift that is why it is called PRESENT". At present, I am living my life to the fullest, giving my hundred percent to whatever I do. Little bit of coding ,studying, and writing articles like these, that's what I am doing these days. And for the future, I am going to follow my sister's advice where she said, "Be a man of dignity and the rest will follow".
                           <hr/>
                       </p>
                         <hr/>
