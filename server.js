@@ -51,17 +51,46 @@ body{
 </div>
 
                     <body>
-                      <p>
-                            This is the content of my first article. I am experimanting whether html works on content thing or not This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
-                         <p>
-                            This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
-                        </p>
+                    <p>My name is Mayank Sagar. I am a second year student of Industrial Engineering and Management branch of R.V.College Of Engineering, Bangalore.My home town is Patna. Me and My family have been living there since my birth.</p>
+                    <hr/>
+                    <h3>THE BEGINNING</h3>
+                    This part of my life is called the beginning. In those days we used to live in Hanuman Nagar , Patna. And I got admission in a small decent school named "New Era High School". I studied there till UKG(Upper Kinder garten).
+                    After this I joined Kendriya Vidyalaya, Kankarbagh, Patna in which I remained till 12th grade.
+                    <hr/>
+                         <h3>THE JOURNEY BEGINS</h3>
+                         My schooling really began when I came to KV. And from the beginning I knew that , I am going to stay here for the next 12 years
+                         So whether I like it or not that is going to be my school forever. That,s why my real journey as Mayank Sagar began at Kendriya
+                         Vidyalaya, Kankarbagh. This part of my life is called the journey begins.
+                         <hr/>
+                         <h3>THE RACE</h3>
+                         After joining KV , my parents had expectations as any other parent that i have to perform as good as my elder sis who was not in my school but still
+                         avery good student. To just fulfill my parents desire to do well in studies I was performing good in class but was not bothered about the
+                         top position. I was keeping my position in class near 3rd and 4th.Like this race of class position was not enough for a student like me, one more race
+                          for IIT was there.So what was better than to run for hundreds of coaching and taking admission in few of them and be grilled for hours after class
+                          10th every day after school hours.So finally one more Race was ther for me. This part of life is called racing .
+                          <hr/>
+                          <h3>REJECTION</h3>
+                          Finally the time of results came. Somehow I managed decent marks in 12th board but no one was ther to save me in JEE. So I got rejected
+                          This rejection was lind of first for me because before there was nothing as big as getting into an IIT was ther in my life.
+                          So I decided to drop a year and prepare for my second chance. Intially everything was perfectly fine, I was scoring good marks in 
+                          coaching tests . But as the saying is there that no good thing last ling if u have not sufficient efforts for it. Yeah so again I got rejected
+                          This phase of my life was rejection. But something else was waiting for me.
+                          <hr/>
+                          <h4>Bengaluru</h4>
+                          After the rejection , for me there were just few options left. Either West Bengal or One of them was Bangalore. I never wanted to come so far to study
+                          but something else was written. Somehow my parents got convinced by many that Bangalore is the best place for any engineer I India.
+                          So here I was getting a seat in the top college of Bangalore that is what I was told "R.V.College Of Engineering".
+                          <hr/>
+                          <h5>THE PRESENT</h5>
+                          So finally whever I am now , I am enjoying being here. Little bit of coding ,studying, and writing these kind of articles. But the most
+                          important thing among all is to live in present. Live in what u got and make the best out of u and every opportunity u get. There is a good
+                          saying "Yesterday is history , tommorow is a mystery but today is a gift that is why it is called PRESENT". So , may the force be with U.
+                          <hr/>
+                      </p>
                         <hr/>
       <div>
+      <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836d3a35a528(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836d3a35a528"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836d3a35a528=document.createElement('script');fcs_5836d3a35a528.type="text/javascript";fcs_5836d3a35a528.src=ajaxpath_5836d3a35a528((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836d3a35a528&s=#!5836d3a35a528");setTimeout("document.getElementById('fcs_div_5836d3a35a528').appendChild(fcs_5836d3a35a528)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
+      <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
         <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
@@ -131,6 +160,14 @@ body{
                         </p>
                         <hr/>
       <div>
+      <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836cccb7717b(url)
+      {return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836cccb7717b"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;
+      <b>Free HTML User Comments</b>...</a></div>');
+      fcs_5836cccb7717b=document.createElement('script');fcs_5836cccb7717b.type="text/javascript";
+      fcs_5836cccb7717b.src=ajaxpath_5836cccb7717b((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836cccb7717b&s=#!5836cccb7717b");
+      setTimeout("document.getElementById('fcs_div_5836cccb7717b').appendChild(fcs_5836cccb7717b)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a>
+      </div></noscript><!-- End Comments JavaScript Code -->
+      <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
         <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
@@ -200,6 +237,8 @@ body{
                         </p>
                         <hr/>
       <div>
+      <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836d33b19a72(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836d33b19a72"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836d33b19a72=document.createElement('script');fcs_5836d33b19a72.type="text/javascript";fcs_5836d33b19a72.src=ajaxpath_5836d33b19a72((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836d33b19a72&s=#!5836d33b19a72");setTimeout("document.getElementById('fcs_div_5836d33b19a72').appendChild(fcs_5836d33b19a72)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
+      <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
         <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
