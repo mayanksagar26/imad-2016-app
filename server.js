@@ -29,17 +29,15 @@ body{
 
         background: url(http://hdwallpaperbackgrounds.net/wp-content/uploads/2016/01/Beautiful-Mountain-Range-Desktop-Wallpaper.jpg);
         color: white;
-        font-family: Helvetica;
-        padding-top: 20px;
-        background-size: cover;
-        background-position: center center;
-        background-repeat:no-repeat;
-        background-attachment: fixed;
-        margin-left: 20px;
-        margin-right: 20px;
-        margin-top: 20px;
-         padding-left: 20px;
-         padding-right: 20px;
+    font-family: Helvetica;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left: 120px;
+    margin-right: 120px;
+    rgin-top: 20px;
+    padding-left: 20px;
 }
 </style>
 </head>
@@ -62,10 +60,10 @@ body{
                           <h3>REJECTION</h3>
                           Finally the results arrived. Somehow I managed to score decent marks in 12th boards but no one was there to save me in JEE. I got rejected and that was the first rejection of my life. I decided to drop a year and prepare for my second chance. Initially everything was perfectly fine, I was scoring good marks in mock tests. But I guess my efforts weren't enough and I got rejected in JEE again. This phase of my life was rejection. But something else was waiting for me.
                           <hr/>
-                          <h4>Bengaluru</h4>
+                          <h3>Bengaluru</h3>
                           After the rejections, there were just few options left for me. I never wanted to go too far from my family to study but destiny had some other plans for me. I had secured good marks in the COMED-K examination which made me eligible for getting a seat in one of the top colleges of Karnataka that "R.V.College Of Engineering".
                           <hr/>
-                          <h5>THE PRESENT</h5>
+                          <h3>THE PRESENT</h3>
                          There is a famous saying "Yesterday is history, tomorrow is a mystery but today is a gift that is why it is called PRESENT". At present, I am living my life to the fullest, giving my hundred percent to whatever I do. Little bit of coding ,studying, and writing articles like these, that's what I am doing these days. And for the future, I am going to follow my sister's advice where she said, "Be a man of dignity and the rest will follow".
                           <hr/>
                       </p>
@@ -74,7 +72,7 @@ body{
       <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836d3a35a528(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836d3a35a528"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836d3a35a528=document.createElement('script');fcs_5836d3a35a528.type="text/javascript";fcs_5836d3a35a528.src=ajaxpath_5836d3a35a528((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836d3a35a528&s=#!5836d3a35a528");setTimeout("document.getElementById('fcs_div_5836d3a35a528').appendChild(fcs_5836d3a35a528)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
       <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
-        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <h4>If you liked the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
         </a>
@@ -121,8 +119,8 @@ body{
         background-position: center center;
         background-repeat:no-repeat;
         background-attachment: fixed;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 120px;
+        margin-right: 120px;
         margin-top: 20px;
          padding-left: 20px;
          padding-right: 20px;
@@ -149,7 +147,7 @@ body{
     <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836da32e2a1d(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836da32e2a1d"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836da32e2a1d=document.createElement('script');fcs_5836da32e2a1d.type="text/javascript";fcs_5836da32e2a1d.src=ajaxpath_5836da32e2a1d((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836da32e2a1d&s=#!5836da32e2a1d");setTimeout("document.getElementById('fcs_div_5836da32e2a1d').appendChild(fcs_5836da32e2a1d)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
       <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
-        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <h4>If you liked the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
         </a>
@@ -196,8 +194,8 @@ body{
         background-position: center center;
         background-repeat:no-repeat;
         background-attachment: fixed;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 120px;
+        margin-right: 120px;
         margin-top: 20px;
          padding-left: 20px;
          padding-right: 20px;
@@ -263,7 +261,7 @@ var mygallery=new fadeSlideShow({
       <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836d33b19a72(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836d33b19a72"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836d33b19a72=document.createElement('script');fcs_5836d33b19a72.type="text/javascript";fcs_5836d33b19a72.src=ajaxpath_5836d33b19a72((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836d33b19a72&s=#!5836d33b19a72");setTimeout("document.getElementById('fcs_div_5836d33b19a72').appendChild(fcs_5836d33b19a72)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
       <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
-        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <h4>If you liked the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
         <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
           <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
         </a>
