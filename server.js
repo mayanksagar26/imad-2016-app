@@ -160,13 +160,7 @@ body{
                         </p>
                         <hr/>
       <div>
-      <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836cccb7717b(url)
-      {return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836cccb7717b"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;
-      <b>Free HTML User Comments</b>...</a></div>');
-      fcs_5836cccb7717b=document.createElement('script');fcs_5836cccb7717b.type="text/javascript";
-      fcs_5836cccb7717b.src=ajaxpath_5836cccb7717b((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836cccb7717b&s=#!5836cccb7717b");
-      setTimeout("document.getElementById('fcs_div_5836cccb7717b').appendChild(fcs_5836cccb7717b)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a>
-      </div></noscript><!-- End Comments JavaScript Code -->
+    <!-- Begin Comments JavaScript Code --><script type="text/javascript" async>function ajaxpath_5836da32e2a1d(url){return window.location.href == '' ? url : url.replace('&s=','&s=' + escape(window.location.href));}(function(){document.write('<div id="fcs_div_5836da32e2a1d"><a title="free comment script" href="http://www.freecommentscript.com">&nbsp;&nbsp;<b>Free HTML User Comments</b>...</a></div>');fcs_5836da32e2a1d=document.createElement('script');fcs_5836da32e2a1d.type="text/javascript";fcs_5836da32e2a1d.src=ajaxpath_5836da32e2a1d((document.location.protocol=="https:"?"https:":"http:")+"//www.freecommentscript.com/GetComments2.php?p=5836da32e2a1d&s=#!5836da32e2a1d");setTimeout("document.getElementById('fcs_div_5836da32e2a1d').appendChild(fcs_5836da32e2a1d)",1);})();</script><noscript><div><a href="http://www.freecommentscript.com" title="free html user comment box">Free Comment Script</a></div></noscript><!-- End Comments JavaScript Code -->
       <hr/>
         <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
         <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
