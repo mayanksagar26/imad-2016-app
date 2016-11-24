@@ -12,7 +12,7 @@ var articles = {
         date:'' ,
         content:`
     <head>
-        <meta name="View port" content="width=device-width,intial scale=1" />
+        <meta name="viewport" content="width=device-width,intial-scale=1" />
         <style>
 
 h1{
@@ -38,9 +38,6 @@ body{
         margin-left: 20px;
         margin-right: 20px;
         margin-top: 20px;
-        max-width: 800px;
-         margin: 0 auto;
-         font-family: sans-serif;
          padding-left: 20px;
          padding-right: 20px;
 }
@@ -116,7 +113,7 @@ body{
         content:`
     <head>
          <title>Mayank</title>
-        <meta name="View port" content="width=device-width,intial scale=1" />
+        <meta name="viewport" content="width=device-width,intial-scale=1" />
         <style>
 
 h1{
@@ -132,7 +129,7 @@ font-size:24px;
 body{
 
         background: url(http://cdn.wallpapersafari.com/34/93/bpQCDl.jpg);
-        color: white;
+         color: white;
         font-family: Helvetica;
         padding-top: 20px;
         background-size: cover;
@@ -142,9 +139,6 @@ body{
         margin-left: 20px;
         margin-right: 20px;
         margin-top: 20px;
-        max-width: 800px;
-         margin: 0 auto;
-         font-family: sans-serif;
          padding-left: 20px;
          padding-right: 20px;
 }
@@ -194,7 +188,7 @@ body{
         content:`<html>
     <head>
          <title>Mayank</title>
-        <meta name="View port" content="width=device-width,intial scale=1" />
+       <meta name="viewport" content="width=device-width,intial-scale=1" />
         <style>
 
 h1{
@@ -220,9 +214,6 @@ body{
         margin-left: 20px;
         margin-right: 20px;
         margin-top: 20px;
-        max-width: 800px;
-         margin: 0 auto;
-         font-family: sans-serif;
          padding-left: 20px;
          padding-right: 20px;
 }
