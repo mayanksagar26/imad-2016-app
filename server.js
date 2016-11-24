@@ -249,7 +249,7 @@ var mygallery=new fadeSlideShow({
  </script>  
 
                         <hr/>
-                        <h2>Some other pics of mine</h2>
+                        <h2>Some other pics/h2>
                         <script type="text/javascript" src="http://www.linkbuildingservices4sites.com/resources/slide-show.js"></script>   
 
 <div id="imageslideshow2"></div> 
