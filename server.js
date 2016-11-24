@@ -60,7 +60,24 @@ body{
                          <p>
                             This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article. This is the content of my first article.
                         </p>
+                        <hr/>
+      <div>
+        <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
+        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/Biharibalak" target="_blank">
+            <img src="http://www.science.unsw.edu.au/files/twitter-icon-1024x1024.png" style="border:0px solid black;max-width:8%;" alt="Twitter">
+          </a>
+          <a href="https://www.eyeem.com/u/mayanksagar1" target="_blank">
+              <img src="https://lh3.googleusercontent.com/v1Eh8qzDdPSHgPp2NINY1b3UcBh4lTRM6ELvpqPk0EmvAkU4z6cVrmVVBRNKMY1xc9c=w300" style="border:0px solid black;max-width:8%;" alt="Twitter">
+            </a>
+            <a href="https://www.youtube.com/channel/UCTSudzwdXOlGLKdORIGQRdQ" target="_blank">
+                <img src="https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" style="border:0px solid black;max-width:12%;" alt="YouTube">
+            </a>
 
+      </div>
                         </body>`,
 
     },
@@ -112,6 +129,24 @@ body{
                       <p>
                             This is the content of my second article.
                         </p>
+                        <hr/>
+      <div>
+        <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
+        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/Biharibalak" target="_blank">
+            <img src="http://www.science.unsw.edu.au/files/twitter-icon-1024x1024.png" style="border:0px solid black;max-width:8%;" alt="Twitter">
+          </a>
+          <a href="https://www.eyeem.com/u/mayanksagar1" target="_blank">
+              <img src="https://lh3.googleusercontent.com/v1Eh8qzDdPSHgPp2NINY1b3UcBh4lTRM6ELvpqPk0EmvAkU4z6cVrmVVBRNKMY1xc9c=w300" style="border:0px solid black;max-width:8%;" alt="Twitter">
+            </a>
+            <a href="https://www.youtube.com/channel/UCTSudzwdXOlGLKdORIGQRdQ" target="_blank">
+                <img src="https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" style="border:0px solid black;max-width:12%;" alt="YouTube">
+            </a>
+
+      </div>
                         </body>`,
 
     },
@@ -163,6 +198,24 @@ body{
                       <p>
                             This is the content of my third article.
                         </p>
+                        <hr/>
+      <div>
+        <h3>You can follow me on twitter, facebook and EyeEm by clicking on the icon below </h3>
+        <h4>If you like the video, please like and share  my work. You can do that by clicking on the YouTube icon and subscribe to my channel</h4>
+        <a href="https://www.facebook.com/mayanksagar.27" target="_blank">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/F_icon.svg/768px-F_icon.svg.png" style="border:0px solid black;max-width:8%;" alt="Facebook">
+        </a>
+        <a href="https://twitter.com/Biharibalak" target="_blank">
+            <img src="http://www.science.unsw.edu.au/files/twitter-icon-1024x1024.png" style="border:0px solid black;max-width:8%;" alt="Twitter">
+          </a>
+          <a href="https://www.eyeem.com/u/mayanksagar1" target="_blank">
+              <img src="https://lh3.googleusercontent.com/v1Eh8qzDdPSHgPp2NINY1b3UcBh4lTRM6ELvpqPk0EmvAkU4z6cVrmVVBRNKMY1xc9c=w300" style="border:0px solid black;max-width:8%;" alt="Twitter">
+            </a>
+            <a href="https://www.youtube.com/channel/UCTSudzwdXOlGLKdORIGQRdQ" target="_blank">
+                <img src="https://www.youtube.com/yt/brand/media/image/YouTube-logo-full_color.png" style="border:0px solid black;max-width:12%;" alt="YouTube">
+            </a>
+
+      </div>
                         </body>`,
 
     }
@@ -183,9 +236,9 @@ function createTemplate (data){
         <body>
                     <div>
                         <a href="/">Home Page</a>
-                        <a href="/article-one" target="_blank" color="white">| About ME</a>
-                        <a href="/article-two" target="_blank" color="white">| Videos</a>
-                        <a href="/article-three" target="_blank" color="white">| Pictures </a>
+                        <a href="/article-one" color="white">| About ME</a>
+                        <a href="/article-two" color="white">| Videos</a>
+                        <a href="/article-three" color="white">| Pictures </a>
                     </div>
                     <hr/>
                     <h3>
@@ -207,7 +260,12 @@ return htmlTemplate;
 app.get('/', function (req, res) {
   res.sendFile(path.join(__dirname, 'ui', 'index.html'));
 });
-
+var names =[];
+app.get('/submit-name',function(req, res){
+  var name = req.query.name;
+  names.push(name);
+  res.send(JSON.stringify(names));
+})
 app.get('/:articleName', function (req, res){
     var articleName = req.params.articleName;
       res.send(createTemplate(articles[articleName]));

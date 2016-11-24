@@ -1,20 +1,26 @@
-console.log('Loaded!');
+var submit = document.getElementById('submit_btn');
 
-//Change the text of the inner Html file by adding a id
-var element = document.getElementById('main-text');
-
-//Calling the inner HTML of the html file and changing rhe content
-element.innerHTML = 'Click on the DINOSAUR to see it moving';
-
-//Move the Image of the Dinasour
- 
-var img = document.getElementById('madi');
-var marginLeft = 0;
-function moveRight () {
-    marginLeft = marginLeft + 1;
-    img.style.marginLeft = marginLeft + 'px';
+submit.onclick=function(){
+  var request = new XMLHttpRequest();
+  request.onreadystatechange = function(){
+    if(request.readystate === XMLHttpRequest.DONE)
+    {
+      if(request.status === 200)
+      {
+        var names = request.responseText;
+        names = JSON.parse(names);
+        var list = '';
+        for( var i=0;i<names.lenght;i++)
+        {
+          list += '<li>'+ names[i] + '</li>';
+        }
+        var ul = document.getElementById('namelist');
+        ul.innerHTML = list;
+      }
+    }
+  }
+  var nameInput = document.getElementById('name')
+  var name = nameInput.value;
+  request.open('GET','http://mayanksagar26.imad.hasura-app.io/submit-name?name =' + name , true);
+  request.send(null);
 }
-img.onclick = function () {
-   var interval = setInterval(moveRight, 40);
-   alert("DINOSAUR: Bye Bye see u again when u will reload this page");
-};
