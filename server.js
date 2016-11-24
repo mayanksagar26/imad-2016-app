@@ -236,7 +236,7 @@ body{
                       <p>
                             Slideshow of Pictures.
                         </p>
-                        <h2>My small tribute to R.K Laxman sir by my cartoons</h2> 
+                        <h2>My small tribute to R.K Laxman sir through my cartoons</h2> 
                         <script type="text/javascript" src="http://www.linkbuildingservices4sites.com/resources/slide-show.js"></script>   
 
 <div id="imageslideshow1"></div> 
@@ -270,7 +270,7 @@ var mygallery=new fadeSlideShow({
    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13245417_1007216896035734_7631574402319053336_n.jpg?oh=5af205264f300f2f4476a16f3153bae4&oe=58D3515D"],    
    
    ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],
-   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/11900066_863080500449375_6156732306193503755_n.jpg?oh=ba30a0b75bc75b54804f3a76330e9514&oe=58BE96B0"],
+   ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13254510_1003432549747502_378642395448204543_n.jpg?oh=ddd28fe269e7807f150df419d5d2acad&oe=58C0C29B"],
    
    ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/12247117_893448574079234_7784851940404832298_n.jpg?oh=98234aeaabb567f6693e684a2b1a866c&oe=58CE1E34"],
     ["https://scontent-sjc2-1.xx.fbcdn.net/v/t1.0-9/13237784_1003424846414939_4816777132527706957_n.jpg?oh=59ca5fa853c1897ce35049119930547b&oe=58C4C16F"],
