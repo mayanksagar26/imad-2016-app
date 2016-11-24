@@ -159,7 +159,7 @@ body{
                             Some of my other Videos are : 
                             
                         </p>
-                        <h2>Zandu Balm Mad Ads</h2>
+                        <h2>Zandu Balm Mad Ad</h2>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/tLTZJyAn_Ug" frameborder="0" allowfullscreen></iframe>
                         <h2>Startup Interview</h2>
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/1fX6Bn5UIeE" frameborder="0" allowfullscreen></iframe>
@@ -261,10 +261,10 @@ var mygallery=new fadeSlideShow({
                         <h2>Some other pics of mine</h2>
                         <script type="text/javascript" src="http://www.linkbuildingservices4sites.com/resources/slide-show.js"></script>   
 
-<div id="imageslideshow1"></div> 
+<div id="imageslideshow2"></div> 
 <script type="text/javascript">  
 var mygallery=new fadeSlideShow({   
- wrapperid: "imageslideshow1", //ID of blank DIV on page to house Slideshow   
+ wrapperid: "imageslideshow2", //ID of blank DIV on page to house Slideshow   
  dimensions: [750, 500], //width/height of gallery in pixels. Should reflect dimensions of largest image (www.2createawebsites.com)
    imagearray:  [     
    ["https://scontent-sjc2-1.xx.fbcdn.net/t31.0-8/s960x960/12841366_943047492445526_8190240597555264922_o.jpg"],    
