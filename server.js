@@ -34,8 +34,8 @@ body{
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: fixed;
-    margin-left: 120px;
-    margin-right: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
     rgin-top: 20px;
     padding-left: 20px;
 }
@@ -113,15 +113,15 @@ body{
 
         background: url(http://cdn.wallpapersafari.com/34/93/bpQCDl.jpg);
          color: white;
-         text-align: center;
+         
         font-family: Helvetica;
         padding-top: 20px;
         background-size: cover;
         background-position: center center;
         background-repeat:no-repeat;
         background-attachment: fixed;
-        margin-left: 120px;
-        margin-right: 120px;
+        margin-left: 20px;
+        margin-right: 20px;
         margin-top: 20px;
          padding-left: 20px;
          padding-right: 20px;
@@ -189,15 +189,15 @@ body{
 
         background: url(http://cdn.wallpapersafari.com/10/32/vHkSId.jpg);
         color: white;
-        text-align: center;
+        
         font-family: Helvetica;
         padding-top: 20px;
         background-size: cover;
         background-position: center center;
         background-repeat:no-repeat;
         background-attachment: fixed;
-        margin-left: 120px;
-        margin-right: 120px;
+        margin-left: 20px;
+        margin-right: 20px;
         margin-top: 20px;
          padding-left: 20px;
          padding-right: 20px;
